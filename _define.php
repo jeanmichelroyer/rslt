@@ -22,8 +22,8 @@
 if (!defined('DC_RC_PATH')) { return; }
 
 $this->registerModule(
-    /* Name */		'dcEditor',
-    /* Description*/	'ckeditor integration in Dotclear',
+    /* Name */		'RSLT',
+    /* Description*/	'RSLT admin',
     /* Author */		'Nicolas Roudaire',
     /* Version */		'0.3.2',
     /* Permissions */	array('permissions' => 'admin,contentadmin', 'type' => 'plugin')
